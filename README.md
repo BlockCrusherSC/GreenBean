@@ -1,7 +1,3 @@
-Here's a refined version of your CyberPatriot checklist in Markdown format, combining the best practices from all examples:
-
----
-
 # CyberPatriot Comprehensive Security Checklist
 
 This document serves as a detailed guide to hardening both Linux and Windows systems for the CyberPatriot competition. It includes checklists and scripts to help secure various platforms.
